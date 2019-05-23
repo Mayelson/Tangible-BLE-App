@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tangible Ble</string>
+    <string name="ble_uuid">be043a35-93f5-4263-a40a-a3bc4b20d3b8</string>
+</resources>
