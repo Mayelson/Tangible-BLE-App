@@ -17,19 +17,6 @@
             android:layout_height="wrap_content"
             android:text="Advertise"
             android:onClick="btnAdvertise"/>
-
-        <Button
-            android:id="@+id/discover_btn"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Discover"
-            android:onClick="btnDiscover"/>
-
-        <TextView
-            android:id="@+id/text"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="test"/>
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
